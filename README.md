@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @travoltagumbie
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java (Hard Core Java for operating systems development)
+- 🌱 I’m currently working on the Entertainer app for FNB
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me , email
 
